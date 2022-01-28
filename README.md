@@ -1,1 +1,1 @@
-# -Cotton-diseases
+# Cotton-diseases
